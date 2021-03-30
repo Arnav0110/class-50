@@ -1,0 +1,27 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(77, 15, 15);
+    font-size: 25px;
+    font-weight: 300;
+    color: burlywood;
+}
+body{
+    background-color: cornsilk;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.origami {
+    justify-content:space-evenly;
+    border-radius: 10px;
+    background-color:lightgoldenrodyellow;
+
+    width: 415px;
+    font-family: fantasy;
+}
